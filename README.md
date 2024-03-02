@@ -24,7 +24,7 @@ In the data preparation phase, i performed the following tasks:
 2. Data Validation
 3. Handling missing Values
 4. Data Cleaning
-Project 1- Airlines Delay](https://github.com/Yakdam-Datanalyst/Airline-Flight-Delay/assets/150525531/35ef11cc-6325-4b56-8d79-c9e5393f75c8)
+![Project 1- Airlines Delay](https://github.com/Yakdam-Datanalyst/Airline-Flight-Delay/assets/150525531/35ef11cc-6325-4b56-8d79-c9e5393f75c8)
 ### Recommended Analysis
 1. How does the overall flight volume vary by month? By day of week?
 2. What percentage of flights in experienced a departure delay in 2015? Among
